@@ -541,5 +541,5 @@ groupedTranslations({
   frequentlyAskedQuestions: {
     en: "Frequently Asked Questions",
     ar: "الأسئلة الشائعة",
-  }
+  },
 });
