@@ -542,4 +542,44 @@ groupedTranslations({
     en: "Frequently Asked Questions",
     ar: "الأسئلة الشائعة",
   },
+  contactUsTitle: {
+    en: "Call us or visit place",
+    ar: "اتصل بنا أو قم بزيارة المكان",
+  },
+  Lorem: {
+    en: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    ar: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  SendUsMessage: {
+    en: "Send us a message",
+    ar: "أرسل لنا رسالة",
+  },
+  yourName: {
+    en: "your name",
+    ar: "اسمك",
+  },
+  email: {
+    en: "Email",
+    ar: "الايميل",
+  },
+  subject: {
+    en: "subject",
+    ar: "الموضوع",
+  },
+  comment: {
+    en: "comment",
+    ar: "التعليق",
+  },
+  phone: {
+    en: "phone",
+    ar: "رقم الهاتف",
+  },
+  Address: {
+    en: "Address",
+    ar: "العنوان",
+  },
+  submit: {
+    en: "submit",
+    ar: "إرسال",
+  },
 });
